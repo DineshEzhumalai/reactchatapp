@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/88d9dbb4-5389-4334-bb80-a1b98a1ae174/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/projectchatappreact",
+    "appService.deploySubpath": "."
+}
